@@ -30,3 +30,44 @@
 *.exe
 *.out
 *.app
+# Ignore build files
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.lib
+*.so
+*.a
+*.log
+
+# VS Code settings folder
+.vscode/
+
+# Windows-specific system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac system files (just in case you share)
+.DS_Store
+
+# CMake build folder (if used)
+build/
+cmake-build-*/
+
+# Ignore temporary or backup files
+*.tmp
+*.swp
+*.bak
+*.~*
+
+# Ignore compiled test outputs
+*.test
+
+# Ignore user input/output text files
+input.txt
+output.txt
+
+# Ignore cache
+.cache/
