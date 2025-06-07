@@ -1,70 +1,86 @@
-# 📘 DSA Practice Repository
+# 🚀 DSA Practice Repository
 
-Welcome to our collaborative **Data Structures & Algorithms** practice repo!  
-We’re solving problems regularly and pushing our solutions to improve our coding skills, consistency, and problem-solving mindset.
+Welcome to our collaborative **Data Structures & Algorithms (DSA)** repository!  
+This project is maintained by a group of learners committed to mastering DSA by solving and sharing problems together.  
+It follows a contributor-based folder structure, and each contributor documents their progress topic-wise in their own subdirectory.
 
 ---
 
 ## 👥 Contributors
 
-- [Akash Harshvardhan](https://github.com/Akash2624-07)
-- [Arun Avasthi](https://github.com/arun-avasthi)
+- [Akash](https://github.com/Akash2624-07)
+- [Contributor 2](https://github.com/contributor2)
+- [Contributor 3](https://github.com/contributor3)
 
 ---
 
-## 📂 Folder Structure
+## 📂 Repository Structure
 
 ```
 /dsa-practice
 │
-├── C++/
+├── Akash/
 │   ├── arrays/
-│   ├── strings/
-│   ├── recursion/
+│   │   └── README.md (Progress log & links to problems)
+│   ├── trees/
 │   └── ...
-└── README.md
+│
+├── Contributor2/
+│   ├── dp/
+│   ├── stacks/
+│   └── ...
+│
+├── Contributor3/
+│   ├── graphs/
+│   ├── linked_lists/
+│   └── ...
+│
+└── README.md (this file)
 ```
----
-## 🧠 Topics Covered
 
-- ✅ Arrays
-- ✅ Strings
-- ✅ Recursion & Backtracking
-- ✅ Sorting & Searching
-- ✅ Stack, Queue, Linked List
-- ✅ Trees & Graphs
-- ✅ Dynamic Programming
-- ✅ Greedy Algorithms
-- ✅ Bit Manipulation
-- ✅ Sliding Window / Two Pointer
+Each contributor maintains their own folders and adds a `README.md` inside each topic to log progress.
 
 ---
 
-## 🔧 How to Contribute
+## 🛠️ How We Work
 
-1. Pull latest changes before you start
-2. Add your code in the appropriate folder
-3. Use meaningful commit messages  
-   Example: `Added Kadane's Algorithm in C++ – Akash`
-4. Push to main branch
-
----
-
-## 📝 Naming Conventions
-
-- Use `problem_name_author.cpp` like `kmp_algorithm_akash`
-- Comment your approach briefly at the top of the file (if possible)
-- Include time and space complexity (if possible)
+- ✅ Each contributor pushes their code in their own folder.
+- ✅ Folder naming follows lowercase_topic_name convention.
+- ✅ Solution files should be named clearly. Example: `kadanes_algorithm.cpp`, `01_knapsack.cpp`
+- ✅ Each solution includes a brief explanation and time/space complexity if possible.
+- ✅ `README.md` inside each topic folder is updated with solved problems and links.
 
 ---
 
-## 💡 Why This Repo?
+## ✍️ Commit Style Guide
 
-> ✨ “Consistency beats intensity.”  
-We believe in solving at least a few problems a week and helping each other grow by reviewing and learning from each other’s code.
+Use consistent and descriptive commit messages:
+
+```
+[topic] Solved <Problem Name> – <Your Name>
+```
+**Example:**  
+`[arrays] Solved Two Sum – Akash`
 
 ---
 
-### 🔒 License
+## 🧠 Topics Being Covered
 
-This project is open-source. Use it for learning, and feel free to fork or star ⭐
+- Arrays
+- Strings
+- Recursion / Backtracking
+- Searching & Sorting
+- Linked Lists
+- Stack / Queue / Deque
+- Trees / BST / Binary Tree
+- Graphs (BFS / DFS / Topo Sort / MST)
+- Greedy Algorithms
+- Dynamic Programming
+- Bit Manipulation
+- Sliding Window / Two Pointer
+
+---
+
+## 📜 License
+
+This project is open for educational purposes. Feel free to fork and learn! 🌱
