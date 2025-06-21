@@ -11,6 +11,16 @@ It follows a contributor-based folder structure, and each contributor documents 
 - [Akash](https://github.com/Akash2624-07)
 - [Contributor 2](https://github.com/contributor2)
 - [Contributor 3](https://github.com/contributor3)
+![Akash's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akash2624-07&theme=github-compact)
+## 📈 GitHub Stats
+
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash2624-07&show_icons=true&theme=radical&count_private=true)
+## 📊 View Contribution Graph
+
+[🔗 See contributors](https://github.com/Akash2624-07/dsa-practice/graphs/contributors)
+
+
+
 
 ---
 
